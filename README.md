@@ -1,6 +1,11 @@
 # springboot-kafka
 Rigth now, I'm learning about more apache kafka conceps with spring boot in java
 
+<P>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>    
+</P>   
+
 ## kafka commands on Windows
 
 Start zookeeper
